@@ -1,0 +1,222 @@
+{
+   "checksum": "2df6008c9d9c27dee77d5f4cb2ec7ccc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13290591663732801",
+            "guid": "eef730de-7321-4bb9-8037-21598fc593ad",
+            "id": "6",
+            "name": "ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13290643940562088",
+            "guid": "69eff1c6-e0e2-48f0-9004-7f867c6fbafb",
+            "id": "10",
+            "name": "suckless",
+            "type": "url",
+            "url": "https://dwm.suckless.org/"
+         }, {
+            "date_added": "13290691619182664",
+            "guid": "9110441d-dd54-4174-b91d-229f09272396",
+            "id": "18",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13290690462278105",
+            "guid": "b6de3873-2169-4ed6-8288-17f9e5fe2687",
+            "id": "16",
+            "name": "Color Picker",
+            "type": "url",
+            "url": "https://www.w3schools.com/colors/colors_picker.asp"
+         }, {
+            "date_added": "13291280025644135",
+            "guid": "e854a684-4750-44f5-9fb7-a553074ddc18",
+            "id": "38",
+            "name": "live-server",
+            "type": "url",
+            "url": "http://127.0.0.1:8080/"
+         } ],
+         "date_added": "13290588370244427",
+         "date_modified": "13291281193379237",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13290594491901691",
+            "guid": "3f35d727-0d03-4a1d-858e-f1416a676e45",
+            "id": "8",
+            "name": "Caching your GitHub credentials in Git - GitHub Docs",
+            "type": "url",
+            "url": "https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git"
+         }, {
+            "date_added": "13290594319896358",
+            "guid": "9a66d8e3-3b49-4a97-9c0e-5b69d42cd241",
+            "id": "7",
+            "name": "A simpler way to manage your dotfiles | Anand Iyer",
+            "type": "url",
+            "url": "https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html"
+         }, {
+            "date_added": "13290671621237798",
+            "guid": "c931201a-57b3-43ac-b66a-62d9caab7e95",
+            "id": "12",
+            "name": "How to store dotfiles | Atlassian Git Tutorial",
+            "type": "url",
+            "url": "https://www.atlassian.com/git/tutorials/dotfiles"
+         }, {
+            "date_added": "13290591637163521",
+            "guid": "51d2eca7-7c43-41c3-b36d-dd7b17fa1160",
+            "id": "5",
+            "name": "Dwm status bar script for only displaying battery level and date and time using xsetroot. : archlinux",
+            "type": "url",
+            "url": "https://www.reddit.com/r/archlinux/comments/k7ynny/dwm_status_bar_script_for_only_displaying_battery/"
+         }, {
+            "date_added": "13290697828132868",
+            "guid": "f987d899-5046-4b8e-9320-f7e69d2e15f6",
+            "id": "20",
+            "name": "terminal.sexy - Terminal Color Scheme Designer",
+            "type": "url",
+            "url": "https://terminal.sexy/"
+         }, {
+            "date_added": "13290700817104040",
+            "guid": "a1f20aa2-0d00-4754-88df-be19ae92f8e6",
+            "id": "22",
+            "name": "dwm config - volume, battery notification, unread e-mail count & more - blog.dbrgn.ch",
+            "type": "url",
+            "url": "https://blog.dbrgn.ch/2012/1/19/dwm-config-volume-battery-notification-unread-e-mail-count-more/"
+         }, {
+            "date_added": "13290824582031831",
+            "guid": "3b25d0bc-eed0-47c2-a4e2-23192efb25df",
+            "id": "32",
+            "name": "torrinfail/dwmblocks: Modular status bar for dwm written in c.",
+            "type": "url",
+            "url": "https://github.com/torrinfail/dwmblocks"
+         }, {
+            "date_added": "13290702405226088",
+            "guid": "5649cce3-edd5-49fc-9837-0c303dade080",
+            "id": "24",
+            "name": "ashish-yadav11/dwmblocks: Rewrite of dwmblocks with added features including clickability, cursor hinting and color.",
+            "type": "url",
+            "url": "https://github.com/ashish-yadav11/dwmblocks"
+         }, {
+            "date_added": "13290704231941558",
+            "guid": "7ccc59ae-b039-47c7-a02e-e2a12ec3e9db",
+            "id": "26",
+            "name": "LukeSmithxyz/dwmblocks: My status bar: my build of the modular dwmblocks",
+            "type": "url",
+            "url": "https://github.com/lukesmithxyz/dwmblocks"
+         }, {
+            "date_added": "13290763534777439",
+            "guid": "d6107e80-f3fc-46a7-aa62-7db6fb00c1be",
+            "id": "28",
+            "name": "Dave's Visual Guide to dwm - ratfactor",
+            "type": "url",
+            "url": "https://ratfactor.com/dwm"
+         }, {
+            "date_added": "13290813027918037",
+            "guid": "7d849780-5d01-49a6-9e31-666a133fe5e1",
+            "id": "30",
+            "name": "The Linux keyboard and console HOWTO: Delete and Backspace",
+            "type": "url",
+            "url": "https://tldp.org/HOWTO/Keyboard-and-Console-HOWTO-5.html"
+         }, {
+            "date_added": "13291082257387547",
+            "guid": "ad7dcd6a-d062-49f5-bc78-0e451fd33650",
+            "id": "34",
+            "name": "Core utilities - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Core_utilities#Essentials"
+         }, {
+            "date_added": "13291276845848728",
+            "guid": "56a050cb-2c1a-46d7-a3f8-352d99063349",
+            "id": "36",
+            "name": "live-server - npm",
+            "type": "url",
+            "url": "https://www.npmjs.com/package/live-server"
+         }, {
+            "date_added": "13291281193379237",
+            "guid": "31c3fa73-4ff9-4797-a0a0-96bd8feeebad",
+            "id": "40",
+            "name": "doc/man/zathura.1.rst · develop · pwmt / zathura · GitLab",
+            "type": "url",
+            "url": "https://git.pwmt.org/pwmt/zathura/-/blob/develop/doc/man/zathura.1.rst"
+         }, {
+            "date_added": "13291361294671959",
+            "guid": "fe7db2f2-b0d0-4a63-ac00-398a6b1a5dc6",
+            "id": "42",
+            "name": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "type": "url",
+            "url": "https://github.com/lervag/vimtex"
+         }, {
+            "date_added": "13291368438409211",
+            "guid": "c6cc02b6-26b0-4fe6-88b5-b50c9aa40770",
+            "id": "43",
+            "name": "What's The Vim Runtime? A Guide With Examples",
+            "type": "url",
+            "url": "https://thevaluable.dev/vim-runtime-guide-example/"
+         }, {
+            "date_added": "13291376951401508",
+            "guid": "f09924a9-f5ef-4bb9-8fe8-5b0e41027686",
+            "id": "45",
+            "name": "welcome home : vim online",
+            "type": "url",
+            "url": "https://www.vim.org/"
+         }, {
+            "date_added": "13291378332335752",
+            "guid": "fa65e5ed-5f2e-47be-a87e-a678674a18dc",
+            "id": "46",
+            "name": "How to Set Environment Variables in Linux",
+            "type": "url",
+            "url": "https://www.groovypost.com/howto/set-environment-variables-in-linux/"
+         }, {
+            "date_added": "13291526277959980",
+            "guid": "253b02eb-0d91-4d24-ac8e-c83dbb907ab9",
+            "id": "48",
+            "name": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"
+         }, {
+            "date_added": "13291528049847565",
+            "guid": "39452860-6376-4ca4-aab2-51ccb1e3660e",
+            "id": "49",
+            "name": "junegunn/vim-plug: Minimalist Vim Plugin Manager",
+            "type": "url",
+            "url": "https://github.com/junegunn/vim-plug"
+         }, {
+            "date_added": "13291528425807630",
+            "guid": "ec7767d0-94e2-4f61-af5e-c3e5e7b06708",
+            "id": "50",
+            "name": "Vim: help.txt",
+            "type": "url",
+            "url": "https://vimhelp.org/"
+         }, {
+            "date_added": "13291530687491013",
+            "guid": "dec909db-b7cb-4856-8d80-a382e1fea391",
+            "id": "51",
+            "name": "A Complete Guide on Writing LaTeX with Vimtex in Neovim - jdhao's digital space",
+            "type": "url",
+            "url": "https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/"
+         } ],
+         "date_added": "13290588370244429",
+         "date_modified": "13291530687491013",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13290588370244430",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
